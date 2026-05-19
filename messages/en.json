@@ -1,0 +1,72 @@
+{
+  "site": {
+    "name": "FútHoy",
+    "tagline": "All the latest Spanish football news",
+    "description": "Latest news from La Liga, Champions League, transfers and the Spain national team."
+  },
+  "nav": {
+    "laliga": "La Liga",
+    "champions": "Champions",
+    "mundial": "World Cup",
+    "transfers": "Transfers",
+    "realMadrid": "Real Madrid",
+    "barca": "Barça",
+    "resultados": "Scores",
+    "analisis": "Analysis",
+    "search": "Search"
+  },
+  "ticker": {
+    "label": "BREAKING"
+  },
+  "home": {
+    "exclusive": "EXCLUSIVE",
+    "latestNews": "LATEST NEWS",
+    "highlightsOfDay": "HIGHLIGHTS OF THE DAY",
+    "seeAll": "See all",
+    "seeMore": "See more"
+  },
+  "sidebar": {
+    "liveScores": "Live Scores",
+    "standings": "La Liga Standings",
+    "topScorers": "Top Scorers",
+    "seeAllMatches": "See all matches",
+    "matchday": "MATCHDAY",
+    "championsLeague": "CHAMPIONS LEAGUE",
+    "champion": "Champions",
+    "europa": "Europa"
+  },
+  "table": {
+    "position": "#",
+    "team": "Team",
+    "played": "P",
+    "goalDiff": "GD",
+    "points": "PTS",
+    "won": "W",
+    "draw": "D",
+    "lost": "L"
+  },
+  "article": {
+    "by": "By",
+    "share": "Share",
+    "relatedNews": "Related news",
+    "readSource": "Read on"
+  },
+  "footer": {
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "rss": "RSS",
+    "ads": "Advertising",
+    "rights": "All rights reserved"
+  },
+  "common": {
+    "live": "LIVE",
+    "ft": "FT",
+    "ht": "HT",
+    "vs": "vs",
+    "goals": "goals",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "noData": "No data available"
+  }
+}

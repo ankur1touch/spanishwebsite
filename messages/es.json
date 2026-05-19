@@ -1,0 +1,72 @@
+{
+  "site": {
+    "name": "FútHoy",
+    "tagline": "Toda la actualidad del fútbol español",
+    "description": "Las últimas noticias de La Liga, Champions League, fichajes y la selección española."
+  },
+  "nav": {
+    "laliga": "La Liga",
+    "champions": "Champions",
+    "mundial": "Mundial",
+    "transfers": "Transfers",
+    "realMadrid": "Real Madrid",
+    "barca": "Barça",
+    "resultados": "Resultados",
+    "analisis": "Análisis",
+    "search": "Buscar"
+  },
+  "ticker": {
+    "label": "ÚLTIMA HORA"
+  },
+  "home": {
+    "exclusive": "EXCLUSIVA",
+    "latestNews": "ÚLTIMAS NOTICIAS",
+    "highlightsOfDay": "HIGHLIGHTS DEL DÍA",
+    "seeAll": "Ver todo",
+    "seeMore": "Ver más"
+  },
+  "sidebar": {
+    "liveScores": "Resultados en vivo",
+    "standings": "Clasificación La Liga",
+    "topScorers": "Máximos Goleadores",
+    "seeAllMatches": "Ver todos los partidos",
+    "matchday": "JORNADA",
+    "championsLeague": "CHAMPIONS LEAGUE",
+    "champion": "Champions",
+    "europa": "Europa"
+  },
+  "table": {
+    "position": "#",
+    "team": "Equipo",
+    "played": "PJ",
+    "goalDiff": "GD",
+    "points": "PTS",
+    "won": "G",
+    "draw": "E",
+    "lost": "P"
+  },
+  "article": {
+    "by": "Por",
+    "share": "Compartir",
+    "relatedNews": "Noticias relacionadas",
+    "readSource": "Leer en"
+  },
+  "footer": {
+    "about": "Sobre nosotros",
+    "contact": "Contacto",
+    "privacy": "Política de privacidad",
+    "rss": "RSS",
+    "ads": "Publicidad",
+    "rights": "Todos los derechos reservados"
+  },
+  "common": {
+    "live": "EN VIVO",
+    "ft": "FT",
+    "ht": "HT",
+    "vs": "vs",
+    "goals": "goles",
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "noData": "Sin datos disponibles"
+  }
+}
